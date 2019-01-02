@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button bstart;
     Button bcontinue;
-    Charactor player = new Charactor("愚蠢的人", 1, 20, 1, 2,25);
+    Charactor player = new Charactor("愚蠢的人", 1, 20, 1, 0,100);
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

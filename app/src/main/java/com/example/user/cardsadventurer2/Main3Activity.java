@@ -43,9 +43,7 @@ public class Main3Activity extends AppCompatActivity {
         btn_graveyard_enemy = findViewById(R.id.btn_graveyard_enemy);
         btn_card_player = findViewById(R.id.btn_card_player);
         btn_graveyard_player = findViewById(R.id.btn_graveyard_player);
-        btn_skill = findViewById(R.id.btn_skill);
         btn_end_turn = findViewById(R.id.btn_end_turn);
-        imbtn_item = findViewById(R.id.imbtn_item);
         im_enemy = findViewById(R.id.im_enemy);
         card_battlefield = findViewById(R.id.card_battlefield);
         card_player = findViewById(R.id.card_player);
